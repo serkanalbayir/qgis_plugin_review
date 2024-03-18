@@ -7,8 +7,6 @@ A work from my undergraduate education
 # HACETTEPE UNIVERSITY GEOMATIC ENGINEERING GMT456 FINAL PROJECT
 
 **Student:** Serkan Albayır  
-**Student ID:** 21967282
-
 
 # Closest Points QGIS Plugin
 
